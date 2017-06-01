@@ -1,0 +1,2 @@
+model_checkpoint_path: "./weights/ner.weights"
+all_model_checkpoint_paths: "./weights/ner.weights"
